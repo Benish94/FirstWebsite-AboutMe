@@ -1,6 +1,6 @@
 # 📚 Nuxt Mentoring Repository
 
-Willkommen im Nuxt Mentoring-Repository! Hier kannst du erste Erfahrungen mit Nuxt 3 und NuxtUI sammeln und eigene kleine Projekte umsetzen.
+Willkommen im Nuxt Mentoring-Repository!
 
 ---
 
